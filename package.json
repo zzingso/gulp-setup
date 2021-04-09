@@ -1,0 +1,22 @@
+{
+  "name": "gulp-setup",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzingso/gulp-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzingso/gulp-setup/issues"
+  },
+  "homepage": "https://github.com/zzingso/gulp-setup#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
